@@ -1,4 +1,4 @@
-# 挨踢民工日志（Developer's Diary）
+# 挨踢民工日志（Developer's Journal）
 
 作者：fool2fish
 
