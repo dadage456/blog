@@ -1,4 +1,4 @@
-blog
-====
+# 挨踢民工日志（Developer's Diary）
 
-blog
+author: `@fool2fish`
+
