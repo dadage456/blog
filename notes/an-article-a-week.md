@@ -10,6 +10,7 @@
 - Specification
 - API doc
 - Technical blog
+- http://blog.nodejs.org/2014/01/15/the-next-phase-of-node-js/index.html
 
 ---
 
