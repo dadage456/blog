@@ -1,5 +1,13 @@
 # 深入理解计算机系统（第2版）
 
+### 工具相关
+
+```
+gcc -O1 -S source.c
+gcc -O1 -o ouput source.c
+otool -tV source.c
+```
+
 ### 习题 4.18：rA 和 rB 的 HCL 描述
 
 1. p253,图 4-19，为何 `rmmovl D(rB), rA` 中的 AB 会倒转？
