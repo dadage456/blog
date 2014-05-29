@@ -5,3 +5,4 @@
   - 如果两个流并发地运行在不同的处理器内核或者计算机上，则为并行
 - property, attribute
 - argument, parameter
+- distribute, allocate, assign
